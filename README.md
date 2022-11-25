@@ -55,3 +55,4 @@ itemtype: describe el elemento junto a sus propiedades con una URL válida de un
 ```
 
 Semantic inspector / chrome extension
+https://search.google.com/test/rich-results / resource to valid structure data
