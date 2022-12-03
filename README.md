@@ -60,4 +60,7 @@ https://search.google.com/test/rich-results / resource to valid structure data
 last line added
 otro
 merged
+<<<<<<< Updated upstream
 Hola
+=======
+>>>>>>> Stashed changes
